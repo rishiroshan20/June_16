@@ -1938,20 +1938,22 @@ body {
     .memory-scene {
         flex-direction: column;
         gap: 30px;
-        padding: 20px 15px !important;
+        padding: 60px 15px 40px 15px !important;
         width: 100%;
         height: auto;
         min-height: 100%;
+        margin-top: 30px;
     }
     
     .memory-badge {
-        top: -35px;
-        padding: 10px 25px;
+        top: -45px;
+        padding: 12px 30px;
     }
     
     .badge-text {
-        font-size: 14px;
+        font-size: 16px;
         letter-spacing: 2px;
+        font-weight: 700;
     }
     
     .image-wrapper {
@@ -1959,7 +1961,7 @@ body {
         max-width: 90vw;
         height: 50vh;
         max-height: 400px;
-        margin: 0 auto;
+        margin: 20px auto 0;
     }
     
     .corner-decoration {
@@ -2155,18 +2157,20 @@ body {
     }
     
     .memory-scene {
-        padding: 15px 10px !important;
+        padding: 50px 10px 30px 10px !important;
         gap: 20px;
+        margin-top: 20px;
     }
     
     .memory-badge {
-        top: -30px;
-        padding: 8px 20px;
+        top: -40px;
+        padding: 10px 25px;
     }
     
     .badge-text {
-        font-size: 12px;
-        letter-spacing: 1px;
+        font-size: 14px;
+        letter-spacing: 1.5px;
+        font-weight: 700;
     }
     
     .image-wrapper {
@@ -2174,6 +2178,7 @@ body {
         max-width: 95vw;
         height: 45vh;
         max-height: 320px;
+        margin: 15px auto 0;
     }
     
     .corner-decoration {
