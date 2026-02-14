@@ -1,0 +1,172 @@
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║         🌟 ROMANTIC WEBSITE SETUP - QUICK START 🌟       ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+
+👋 HEY! START HERE FOR EASY SETUP!
+
+═══════════════════════════════════════════════════════════
+
+📦 STEP 1: CREATE YOUR FOLDER STRUCTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Create a new folder on your computer
+   Name it: "Valentine_For_Priyaa" (or anything you like)
+
+2. Inside that folder, create a subfolder named: images
+
+3. Your structure should look like this:
+
+   Valentine_For_Priyaa/
+   │
+   ├── index.html          ← Downloaded from here
+   ├── style.css           ← Downloaded from here
+   ├── script.js           ← Downloaded from here
+   ├── music.mp3           ← Already have this
+   │
+   └── images/             ← Create this folder!
+       ├── memory1.jpg     ← Add your photos here
+       ├── memory2.jpg     ← Add your photos here
+       ├── memory3.jpg     ← Add your photos here
+       └── memory4.jpg     ← Add your photos here
+
+═══════════════════════════════════════════════════════════
+
+📸 STEP 2: PREPARE YOUR 4 PHOTOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Choose 4 special photos:
+
+   1. memory1.jpg = School days at SDA, Puducherry
+   2. memory2.jpg = College memories
+   3. memory3.jpg = Overcoming challenges together
+   4. memory4.jpg = Recent/present day photo
+
+IMPORTANT:
+   ✓ Rename them EXACTLY as shown above
+   ✓ Use JPG format
+   ✓ Portrait (vertical) photos work best
+   ✓ Keep file size under 500KB each
+
+═══════════════════════════════════════════════════════════
+
+🎵 STEP 3: ADD YOUR MUSIC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   ✓ You already have music.mp3
+   ✓ Place it in the MAIN folder (not in images folder)
+   ✓ Make sure it's named exactly: music.mp3
+
+═══════════════════════════════════════════════════════════
+
+🚀 STEP 4: TEST YOUR WEBSITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Double-click index.html to open in your browser
+   (Chrome, Firefox, or Safari recommended)
+
+2. Click "Begin Our Story" button
+
+3. Check that:
+   ✓ Music plays (you might need to click the music button)
+   ✓ All 4 photos appear
+   ✓ Text displays correctly
+   ✓ Transitions are smooth
+   ✓ Proposal appears at the end
+
+═══════════════════════════════════════════════════════════
+
+💡 QUICK TIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ Each memory shows for 16 seconds
+✨ Use arrow keys to navigate (← →)
+✨ Click progress dots to jump between memories
+✨ Music button in bottom-right corner
+✨ Proposal appears automatically at the end
+
+═══════════════════════════════════════════════════════════
+
+🎨 CUSTOMIZATION (OPTIONAL)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Want to change something?
+
+Colors:
+   → Open style.css
+   → Find :root section at the top
+   → Change color values
+
+Timing:
+   → Open script.js
+   → Find "16000" (that's 16 seconds)
+   → Change to your preferred time in milliseconds
+
+Text:
+   → Open script.js
+   → Find the "memories" array
+   → Edit the text between backticks
+
+═══════════════════════════════════════════════════════════
+
+⚠️ TROUBLESHOOTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Problem: Images don't show
+Solution: Check that images folder exists and files are 
+         named exactly: memory1.jpg, memory2.jpg, etc.
+
+Problem: Music doesn't play
+Solution: Click the music button in bottom-right corner
+         Some browsers block autoplay
+
+Problem: Website looks broken
+Solution: Make sure all 5 files are in the same folder
+         (index.html, style.css, script.js, music.mp3, 
+         and the images folder)
+
+═══════════════════════════════════════════════════════════
+
+📱 WORKS ON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   ✓ Desktop computers
+   ✓ Laptops
+   ✓ Tablets
+   ✓ Mobile phones
+   ✓ All modern browsers
+
+═══════════════════════════════════════════════════════════
+
+🎁 PRESENTATION TIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Test everything beforehand
+2. Choose a quiet, romantic setting
+3. Dim the lights for better atmosphere
+4. Have tissues ready! 😊
+5. Be ready to click "Begin Our Story" together
+6. Let the website tell your story
+7. Be present for her reaction ❤️
+
+═══════════════════════════════════════════════════════════
+
+📚 NEED MORE HELP?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Read these files for detailed guides:
+   → README.md (Complete documentation)
+   → IMAGE_GUIDE.md (Photo preparation help)
+
+═══════════════════════════════════════════════════════════
+
+           ❤️  GOOD LUCK WITH YOUR PROPOSAL!  ❤️
+
+         May your love story have a happy ending,
+              and may this be just the beginning
+                 of your forever together!
+
+═══════════════════════════════════════════════════════════
+
+Made with Love 💕 | Valentine's Day 2026 | For Priyaa
