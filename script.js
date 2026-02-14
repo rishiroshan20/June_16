@@ -333,10 +333,27 @@ function showProposal() {
 }
 
 // ==========================================
+// TELEGRAM NOTIFICATION (via Serverless API)
+// ==========================================
+
+function sendTelegramNotification(response) {
+    fetch('/api/notify', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ response: response })
+    }).catch(err => console.log('Notification error:', err));
+}
+
+// ==========================================
 // HANDLE YES BUTTON CLICK
 // ==========================================
 
 function handleYesClick() {
+    // Send Telegram notification
+    sendTelegramNotification('yes');
+    
     const proposalContent = document.querySelector('.proposal-content');
     const yesResponse = document.getElementById('yes-response');
     
@@ -366,6 +383,9 @@ function handleYesClick() {
 // ==========================================
 
 function handleNoClick() {
+    // Send Telegram notification
+    sendTelegramNotification('no');
+    
     const proposalContent = document.querySelector('.proposal-content');
     const noResponse = document.getElementById('no-response');
     
